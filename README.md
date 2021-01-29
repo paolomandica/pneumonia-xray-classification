@@ -2,6 +2,8 @@
 
 In this project I'm going to train a CNN for the classication of Chest X-Ray Images of healty/pneumonia cases.
 
+Use [this link](https://nbviewer.jupyter.org/github/paolomandica/pneumonia-xray-classification/blob/main/main.ipynb) if you have problems visualizing the notebook.
+
 ## Dataset
 The dataset used for the project is taken from the [Chest X-Ray Image (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) kaggle competition.
 
