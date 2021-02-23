@@ -1,6 +1,11 @@
 # Chest X-Ray Images Classification (Pneumonia)
 
-In this project I'm going to train a CNN for the classication of Chest X-Ray Images of healty/pneumonia cases.
+In this project I trained a CNN for the classication of Chest X-Ray Images of healty/pneumonia cases, choosing the best one between 3 different approaches:
+- a **custom** (deep) **CNN**;
+- a **shallow CNN** (SCNNB);
+- a **pre-trained ResNet50**.
+
+I then chose the best model based on various metrics, optimal for medical analysis, and I **interpreted** the results using gradients-based techniques by using the *tf-explain* library.
 
 Use [this link](https://nbviewer.jupyter.org/github/paolomandica/pneumonia-xray-classification/blob/main/main.ipynb) if you have problems visualizing the notebook.
 
